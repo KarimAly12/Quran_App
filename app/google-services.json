@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "535735437484",
+    "project_id": "quranapp-27cba",
+    "storage_bucket": "quranapp-27cba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535735437484:android:b428053024036b6cc27709",
+        "android_client_info": {
+          "package_name": "com.example.customproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535735437484-d36iv2uo9j4q0uc3orrfr0cduh9e4uor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGAA3VGu0Le8jKs7SfrpvGDo1OAuz6uPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535735437484-d36iv2uo9j4q0uc3orrfr0cduh9e4uor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
